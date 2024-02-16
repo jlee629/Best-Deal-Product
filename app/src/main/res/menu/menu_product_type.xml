@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/m_appliances"
+        android:orderInCategory="10"
+        android:title="Appliances"/>
+
+    <item
+        android:id="@+id/m_tvs"
+        android:orderInCategory="10"
+        android:title="TVs"/>
+
+    <item
+        android:id="@+id/m_computers"
+        android:orderInCategory="10"
+        android:title="Computers"/>
+
+    <item
+        android:id="@+id/m_furniture"
+        android:orderInCategory="10"
+        android:title="Furniture"/>
+
+    <item
+        android:id="@+id/m_auto_accessories"
+        android:orderInCategory="10"
+        android:title="Auto Accessories"/>
+
+
+</menu>

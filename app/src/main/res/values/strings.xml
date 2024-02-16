@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JUNGYU\'s Best Deal Products Inc.</string>
+    <string name="total_price">Total Price: $%1$.2f</string>
+    <string name="final_message">Thank you, %1$s. The total price: %2$s will be charged.</string>
+</resources>
